@@ -1,0 +1,17 @@
+[  
+    {  
+        "id": "tools",  
+        "children":  
+        [  
+            {
+                "caption": "Sublime Player",
+                "children":
+                [
+                    { "command": "sublime_player_play", "caption": "Play"},
+                    { "command": "sublime_player_stop", "caption": "Stop"},
+                    { "command": "sublime_player_set_url", "caption": "Set Url"}
+                ]
+            }
+        ]  
+    }    
+]
