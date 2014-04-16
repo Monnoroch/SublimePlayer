@@ -6,6 +6,6 @@ You can play any audio file on you computer or in the internet via this plugin.
 
 Want to listen music while coding? This plugin is for you!
 
-Works only with ffplay installed (linux, mac).
+Works only with ffplay installed (ffplay available in $PATH).
 
 See Tools -> Sublime Player for options.
